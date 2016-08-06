@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {   setlocale(LC_ALL,"C");
 	char m, ch[20]={"I like music"};
-	string str1="%20";
+	string str1="%20"; // rjrjjs
 	int r=0;
 	while(ch[r])
 	{   m=ch[r];
